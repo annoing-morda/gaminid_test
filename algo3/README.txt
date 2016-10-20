@@ -1,0 +1,1 @@
+Пункт (а) реализован в классе accurate_store, пункт (b) - в классе approx_store.
